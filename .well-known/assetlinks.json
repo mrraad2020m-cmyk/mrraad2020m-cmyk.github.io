@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wasl.app",
+    "sha256_cert_fingerprints": ["5A:38:6C:C3:88:F2:4E:EA:5C:3F:F6:22:47:A0:32:E8:C4:16:43:60:DF:F9:D4:4B:13:A5:FA:21:47:2D:93:9E"]
+  }
+}]
